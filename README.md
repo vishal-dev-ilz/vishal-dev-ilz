@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishal-dev-ilz
-- 👀 I’m interested in developing server side applications. I am also familiar with Both relational and non-relational databases
+- 👀 I’m interested in developing server side applications. I am also familiar with both relational and non-relational databases
 - 🌱 I’m currently learning about databases 
 - 📫 How to reach me ...
 
